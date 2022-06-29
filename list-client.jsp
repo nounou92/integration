@@ -11,6 +11,7 @@
 
 	<h1>Bonjour </h1>
 	<h2>Bonjour Nouha</h2>
+	<h3>Bonjout a Tous</h3>
 
 <%@ include file="layout/navbar.jsp" %>
 <div class="container">
