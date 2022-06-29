@@ -10,6 +10,7 @@
 <body>
 
 	<h1>Bonjour </h1>
+	<h2>Bonjour Nouha</h2>
 
 <%@ include file="layout/navbar.jsp" %>
 <div class="container">
