@@ -9,6 +9,8 @@
 	</head>
 <body>
 
+	<h1>Bonjour </h1>
+
 <%@ include file="layout/navbar.jsp" %>
 <div class="container">
 	<h4 class="mt-4">Liste des clients</h4>
@@ -21,7 +23,7 @@
 	    </div>
 	    
 	    <div class="col-sm-3">
-	      <input type="text" class="form-control" name="prenom" placeholder="Prénom">
+	      <input type="text" class="form-control" name="prenom" placeholder="Prï¿½nom">
 	    </div>
 	    
 	    <button type="submit" class="btn btn-primary col-sm-2 mb-2">Chercher</button>
@@ -35,12 +37,12 @@
 	    <tr>
 	      	<th>Indentifiant</th>
 			<th>Nom</th>
-			<th>Prénom</th>
+			<th>Prï¿½nom</th>
 			<th>Adresse</th>
-			<th>Tél</th>
+			<th>Tï¿½l</th>
 			<th>Date naissance</th>
 			<th>@Mail</th>
-			<th>Civilité</th>
+			<th>Civilitï¿½</th>
 			<th></th>
 			<th></th>
 	    </tr>
